@@ -6,7 +6,7 @@
 
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('../img/bg.jpg') no-repeat center center fixed;
+    background: url('../img/4.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -189,4 +189,26 @@ footer p {
         display: table;
         clear: both;
     }
+}
+
+.navbar{
+    background-color: #61767b ;
+}
+
+.rz1{
+    background-color: #304a4b;
+}
+
+.txt{
+    color:  #d7e58d;
+}
+.rg{
+    color: #f8e119;
+}
+.rm{
+    height: 250px;
+    width: 250px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #830e10;
 }
